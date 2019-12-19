@@ -4,7 +4,7 @@ class MemberPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body:Center(child: Text('下午茶点单'),)
+      body:Center(child: Text('会员页面'),)
     );
   }
 }
