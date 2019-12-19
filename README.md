@@ -4,4 +4,4 @@ Flower-meets-coffee——APP Flutter项目
 
 底部导航栏完成
 
-![image](https://github.com/TroubleMakerZ/Flower-meets-coffee/blob/master/display/show.gif）
+https://raw.githubusercontent.com/TroubleMakerZ/Flower-meets-coffee/master/display/show.gif
